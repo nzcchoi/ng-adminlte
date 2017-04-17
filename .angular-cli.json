@@ -19,6 +19,8 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "al",
       "styles": [
+        "../node_modules/bootstrap/dist/css/bootstrap.css",
+        "../node_modules/admin-lte/dist/css/AdminLTE.css",
         "styles.scss"
       ],
       "scripts": [],
