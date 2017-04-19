@@ -1,5 +1,5 @@
 export class AdminLteOptions {
-    //Add slimscroll to navbar menus
+  //Add slimscroll to navbar menus
   //This requires you to load the slimscroll plugin
   //in every page before app.js
   navbarMenuSlimscroll: true;
