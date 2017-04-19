@@ -1,20 +1,20 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { 500Component } from './500.component';
+import { Error500Component } from './error500.component';
 
-describe('500Component', () => {
-  let component: 500Component;
-  let fixture: ComponentFixture<500Component>;
+describe('Error500Component', () => {
+  let component: Error500Component;
+  let fixture: ComponentFixture<Error500Component>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ 500Component ]
+      declarations: [ Error500Component ]
     })
     .compileComponents();
   }));
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(500Component);
+    fixture = TestBed.createComponent(Error500Component);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

@@ -24,7 +24,7 @@ import { LockscreenComponent } from './samples/examples/lockscreen/lockscreen.co
 import { InvoiceComponent } from './samples/examples/invoice/invoice.component';
 import { InvoicePrintComponent } from './samples/examples/invoice-print/invoice-print.component';
 import { BlankComponent } from './samples/examples/blank/blank.component';
-import { 500Component } from './samples/examples/500/500.component'import { BrowserModule } from '@angular/platform-browser';
+import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
@@ -53,7 +53,8 @@ import { ChartjsComponent } from './samples/charts/chartjs/chartjs.component';
 import { FlotComponent } from './samples/charts/flot/flot.component';
 import { InlineComponent } from './samples/charts/inline/inline.component';
 import { MorrisComponent } from './samples/charts/morris/morris.component';
-import { 404Component } from './samples/examples/404/404.component';
+import { Error404Component } from './samples/examples/error404/error404.component';
+import { Error500Component } from './samples/examples/error500/error500.component';
 
 @NgModule({
   declarations: [
@@ -80,7 +81,33 @@ import { 404Component } from './samples/examples/404/404.component';
     FlotComponent,
     InlineComponent,
     MorrisComponent,
-    404Component, 500Component, BlankComponent, InvoicePrintComponent, InvoiceComponent, LockscreenComponent, PaceComponent, ProfileComponent, RegisterComponent, AdvancedComponent, EditorsComponent, GeneralComponent, BoxedComponent, CollapsedSidebarComponent, FixedComponent, TopNavComponent, ComposeComponent, MailboxComponent, ReadMailComponent, DataComponent, SimpleComponent, ButtonsComponent, IconsComponent, ModalsComponent, SlidersComponent, TimelineComponent, WidgetsComponent
+    BlankComponent,
+    InvoicePrintComponent,
+    InvoiceComponent,
+    LockscreenComponent,
+    PaceComponent,
+    ProfileComponent,
+    RegisterComponent,
+    AdvancedComponent,
+    EditorsComponent,
+    GeneralComponent,
+    BoxedComponent,
+    CollapsedSidebarComponent,
+    FixedComponent,
+    TopNavComponent,
+    ComposeComponent,
+    MailboxComponent,
+    ReadMailComponent,
+    DataComponent,
+    SimpleComponent,
+    ButtonsComponent,
+    IconsComponent,
+    ModalsComponent,
+    SlidersComponent,
+    TimelineComponent,
+    WidgetsComponent,
+    Error500Component,
+    Error404Component
   ],
   imports: [
     BrowserModule,
