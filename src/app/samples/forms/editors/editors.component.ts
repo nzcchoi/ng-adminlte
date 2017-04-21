@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'al-editors',
+  selector: 'alt-editors',
   templateUrl: './editors.component.html',
   styleUrls: ['./editors.component.scss']
 })

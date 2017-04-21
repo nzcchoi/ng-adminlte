@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'al-direct-chat',
+  selector: 'alt-direct-chat',
   templateUrl: './direct-chat.component.html',
   styleUrls: ['./direct-chat.component.scss']
 })

@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'al-lockscreen',
+  selector: 'alt-lockscreen',
   templateUrl: './lockscreen.component.html',
   styleUrls: ['./lockscreen.component.scss']
 })

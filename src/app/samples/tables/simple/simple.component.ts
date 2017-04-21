@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'al-simple',
+  selector: 'alt-simple',
   templateUrl: './simple.component.html',
   styleUrls: ['./simple.component.scss']
 })

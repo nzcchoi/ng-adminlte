@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'al-pace',
+  selector: 'alt-pace',
   templateUrl: './pace.component.html',
   styleUrls: ['./pace.component.scss']
 })

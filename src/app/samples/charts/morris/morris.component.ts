@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'al-morris',
+  selector: 'alt-morris',
   templateUrl: './morris.component.html',
   styleUrls: ['./morris.component.scss']
 })

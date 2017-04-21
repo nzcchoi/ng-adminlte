@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'al-mailbox',
+  selector: 'alt-mailbox',
   templateUrl: './mailbox.component.html',
   styleUrls: ['./mailbox.component.scss']
 })

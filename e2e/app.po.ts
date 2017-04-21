@@ -6,6 +6,6 @@ export class NgAdminltePage {
   }
 
   getParagraphText() {
-    return element(by.css('al-root h1')).getText();
+    return element(by.css('alt-root h1')).getText();
   }
 }

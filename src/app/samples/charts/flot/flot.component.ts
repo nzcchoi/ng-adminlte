@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'al-flot',
+  selector: 'alt-flot',
   templateUrl: './flot.component.html',
   styleUrls: ['./flot.component.scss']
 })

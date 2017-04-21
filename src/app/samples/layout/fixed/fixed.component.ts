@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'al-fixed',
+  selector: 'alt-fixed',
   templateUrl: './fixed.component.html',
   styleUrls: ['./fixed.component.scss']
 })

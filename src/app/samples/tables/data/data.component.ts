@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'al-data',
+  selector: 'alt-data',
   templateUrl: './data.component.html',
   styleUrls: ['./data.component.scss']
 })

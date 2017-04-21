@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'al-widgets',
+  selector: 'alt-widgets',
   templateUrl: './widgets.component.html',
   styleUrls: ['./widgets.component.scss']
 })

@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'al-compose',
+  selector: 'alt-compose',
   templateUrl: './compose.component.html',
   styleUrls: ['./compose.component.scss']
 })

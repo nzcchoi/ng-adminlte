@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'al-control-sidebar',
+  selector: 'alt-control-sidebar',
   templateUrl: './control-sidebar.component.html',
   styleUrls: ['./control-sidebar.component.scss']
 })

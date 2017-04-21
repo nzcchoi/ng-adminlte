@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'al-icons',
+  selector: 'alt-icons',
   templateUrl: './icons.component.html',
   styleUrls: ['./icons.component.scss']
 })
